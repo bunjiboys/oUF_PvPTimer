@@ -1,0 +1,8 @@
+## Interface: 60100
+## Title: oUF: PvPTimer
+## Notes: Adds a timer to track remaining time flagged for PvP
+## Author: bunjiboys (Jardo @ US-Hyjal)
+## Version: 1.0.0
+## Dependencies: oUF
+
+timer.lua
