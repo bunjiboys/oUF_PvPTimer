@@ -5,8 +5,8 @@ local function pvpTimerFormat(left)
 end
 
 local function addPvPTimer(object)
-   if not object.PvP or not object.PvP.Timer then return end
-   local timer = object.PvP.Timer
+   if not object.PvPIndicator or not object.PvPIndicator.Timer then return end
+   local timer = object.PvPIndicator.Timer
    timer.last_update = 0
    object:SetScript("OnUpdate", function(self, elapsed)
       if UnitIsPVP(object.unit) then
