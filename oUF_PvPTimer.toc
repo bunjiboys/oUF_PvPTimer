@@ -2,7 +2,7 @@
 ## Title: oUF: PvPTimer
 ## Notes: Adds a timer to track remaining time flagged for PvP
 ## Author: bunjiboys (Jardo @ US-Hyjal)
-## Version: 7.0.3
+## Version: 7.3.5
 ## Dependencies: oUF
 
 timer.lua
